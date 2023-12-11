@@ -1,6 +1,7 @@
 ---
 execution:
 - executor: selenium
+
   iterations: 10
   runner: testng
   scenario:
